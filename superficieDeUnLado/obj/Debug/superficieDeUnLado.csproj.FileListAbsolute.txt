@@ -1,0 +1,8 @@
+C:\Users\Lautaro\Desktop\csharp\superficieDeUnLado\superficieDeUnLado\bin\Debug\superficieDeUnLado.exe.config
+C:\Users\Lautaro\Desktop\csharp\superficieDeUnLado\superficieDeUnLado\bin\Debug\superficieDeUnLado.exe
+C:\Users\Lautaro\Desktop\csharp\superficieDeUnLado\superficieDeUnLado\bin\Debug\superficieDeUnLado.pdb
+C:\Users\Lautaro\Desktop\csharp\superficieDeUnLado\superficieDeUnLado\obj\Debug\superficieDeUnLado.csproj.AssemblyReference.cache
+C:\Users\Lautaro\Desktop\csharp\superficieDeUnLado\superficieDeUnLado\obj\Debug\superficieDeUnLado.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lautaro\Desktop\csharp\superficieDeUnLado\superficieDeUnLado\obj\Debug\superficieDeUnLado.csproj.CoreCompileInputs.cache
+C:\Users\Lautaro\Desktop\csharp\superficieDeUnLado\superficieDeUnLado\obj\Debug\superficieDeUnLado.exe
+C:\Users\Lautaro\Desktop\csharp\superficieDeUnLado\superficieDeUnLado\obj\Debug\superficieDeUnLado.pdb
